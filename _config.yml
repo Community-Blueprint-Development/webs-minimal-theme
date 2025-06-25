@@ -137,7 +137,11 @@ author:
       # url: "https://instagram.com/"
 # Site Header
 header:
-  image: "/game-truck.png"
+  image: /game-truck.png
+  overlay: true  # Optional: adds a dark overlay for text contrast
+  caption: "Optional caption"
+  og_image: /kids-front-world.jpg
+  show_overlay_excerpt: false
 
 # Site Footer
 footer:
