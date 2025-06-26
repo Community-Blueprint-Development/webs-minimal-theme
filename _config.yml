@@ -19,7 +19,7 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "" # site title that appears in the browser tab and masthead
 title_separator          : "-"
-subtitle                 : "" # site tagline that appears below site title in masthead
+subtitle                 : "Just for YOUth!" # site tagline that appears below site title in masthead
 name                     : "Community Blueprint Development Foundation"
 description              : "Serving the Metropolitan Atlanta Area's children"
 url                      : "https://community-blueprint-development.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -112,8 +112,8 @@ analytics:
 # Site Author
 author:
   name             : "Community Blueprint Development Foundation"
-  avatar           : "/kids-front-world.jpg"
-  bio              : "Just for YOUth!"
+  #avatar           : " "
+  #bio              : "Just for YOUth!"
   location         : "Atlanta, GA"
   email            : "cbdf@gmail.com"
   links:
