@@ -140,7 +140,7 @@ header:
   image: /game-truck.png
   overlay: true  # Optional: adds a dark overlay for text contrast
   caption: "Metro Atlanta Mobile Youth Event"
-  og_image: /kids-front-world.jpg
+  og_image: /game-truck.png
   show_overlay_excerpt: false
 
 # Site Footer
