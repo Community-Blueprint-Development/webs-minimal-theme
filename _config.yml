@@ -112,7 +112,7 @@ analytics:
 # Site Author
 author:
   name             : "Community Blueprint Development Foundation"
-  #avatar           : " "
+  avatar           : "/assets/images/kids-front-world.jpg"
   #bio              : "Just for YOUth!"
   location         : "Atlanta, GA"
   email            : "communityblueprintdevelopment@gmail.com"
