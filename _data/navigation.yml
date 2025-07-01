@@ -1,10 +1,17 @@
-# main links
 main:
   - title: "About"
-    url: https://community-development-development.github.io/docs/_pages/about/
-  - title: "Events"
-    url: /events/
-  - title: "Donate"
-    url: /donate/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+    url: /pages/about.md
+#
+ #- title: "Posts"
+   # url: /year-archive/
+#  - title: "Categories"
+#  url: /categories/
+ #  - title: "Tags"
+#    url: /tags/
+#  - title: "Pages"
+ #   url: /page-archive/
+#  - title: "Collections"
+ #   url: /collection-archive/
+ # - title: "External Link"
+  #  url: https://google.com
+  #  target: _blank
