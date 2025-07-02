@@ -6,12 +6,12 @@ layouts_gallery:
   - url: /assets/images/preswwoman.jpeg
     image_path: /assets/images/mm-layout-splash.png
     alt: "CBDF President"
-  - url: /assets/images/young.jpeg
+  - url: /assets/images/younggirls.jpeg
     image_path: /assets/images/young.jpeg
     alt: "young girls"
   - url: /assets/images/atlsumfd.jpeg
-    image_path: /assets/images/atlsumfd.jpeg
-    alt: "food event"
+    image_path: /assets/images/threeyoungmen.jpeg
+    alt: "young men"
 last_modified_at: 2022-05-27T11:59:26-04:00
 toc: true
 ---
