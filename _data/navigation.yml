@@ -1,6 +1,9 @@
 main:
+  - title: "Home"
+    url: /
   - title: "About"
-    url: /pages/about.md
+    url: /about/
+# ...other navigation items...
 #
  #- title: "Posts"
    # url: /year-archive/
