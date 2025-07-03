@@ -137,10 +137,10 @@ author:
       # url: "https://instagram.com/"
 # Site Header
 header:
-  image: assets/images/kids-front-world.jpg
+  image: assets/images/preswwoman.jpeg
   overlay: true  # Optional: adds a dark overlay for text contrast
   caption: "Metro Atlanta Mobile Youth Event"
-  og_image: assets/images/kids-front-world.jpg
+  og_image: assets/images/preswwoman.jpeg
   show_overlay_excerpt: false
 
 # Site Footer
