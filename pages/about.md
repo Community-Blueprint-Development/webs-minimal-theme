@@ -4,12 +4,12 @@ title: "About"
 excerpt: "Community Blueprint Development Foundation (CBDF)"
 layouts_splash:
   - url: /assets/images/preswwoman.jpeg
-    image_path: /assets/images/preswwoman.png
+    image_path: /assets/images/preswwoman.jpeg
     alt: "CBDF President"
   - url: /assets/images/younggirls.jpeg
     image_path: /assets/images/younggirls.jpeg
     alt: "young girls"
-  - url: /assets/images/threeyoungmenjpeg
+  - url: /assets/images/threeyoungmen.jpeg
     image_path: /assets/images/threeyoungmen.jpeg
     alt: "young men"
 last_modified_at: 2022-05-27T11:59:26-04:00
