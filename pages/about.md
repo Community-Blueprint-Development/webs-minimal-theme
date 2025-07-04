@@ -21,7 +21,7 @@ Community Blueprint Development Foundation, Inc. (CBDF) is a nonprofit, tax-exe
 CBDF is the vision of our president, Daniel Dickson, who has been on a mission to save the lives of youth in the Joyland community for nearly 20 years. In the Joyland Community, which is located in the 30315 zip code, there are approximately 200 children between the ages of 5-14 who are primarily from African-American, single-female-headed households with a median household income significantly lower than the US average and a crime rate significantly above the national average. 
 
 
-{% include gallery id="layouts_gallery" caption="Examples of included layouts `splash`, `single`, and `archive`." %}
+{% include gallery id="layouts_gallery" caption=" " %}
 
 [Contact Us]({{ "/pages/contact/" | relative_url }}){: .btn .btn--success .btn--large}
 
@@ -42,7 +42,7 @@ CBDF is the vision of our president, Daniel Dickson, who has been on a mission t
 
 | Name                                        | Description                                           |
 | ------------------------------------------- | ----------------------------------------------------- |
-| [Post with AA history] [AA-history-post] | A post about AA history event. |
+| [Post with AA history] [AA-history-post] | Teaching African-American History. |
 | [HTML Tags and Formatting Post][html-tags-post] | A variety of common markup showing how the theme styles them. |
 | [Syntax Highlighting Post][syntax-post] | Post displaying highlighted code. |
 | [Post with a Gallery][gallery-post] | A post showing several images wrapped in `<figure>` elements. |
