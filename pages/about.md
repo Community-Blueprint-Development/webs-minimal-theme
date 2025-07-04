@@ -2,7 +2,7 @@
 permalink: /about/
 title: "About"
 excerpt: "Community Blueprint Development Foundation (CBDF)"
-layouts_splash:
+layouts_single:
   - url: /assets/images/preswwoman.jpeg
     image_path: /assets/images/preswwoman.jpeg
     alt: "CBDF President"
