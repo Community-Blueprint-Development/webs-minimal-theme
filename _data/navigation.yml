@@ -3,6 +3,10 @@ main:
     url: /
   - title: "About"
     url: /about/
+  - title: "Contact Us"
+    url: /contact/
+  - title: "Donate"
+    url: /donate/
 # ...other navigation items...
 #
  #- title: "Posts"
