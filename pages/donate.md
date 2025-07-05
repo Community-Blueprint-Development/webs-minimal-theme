@@ -28,7 +28,7 @@ Please visit Community Blueprint Development Foundation, Inc.‘s website at www
 | [July-14-2025] [African-American-curriculum] | Revitalizing African American History for our YOUth. |
 
 
-Check our archive:[posts archive][year-archive].
+Check our archive:[Posts by Year][year-archive].
 
 [African-American-curriculum]: {{ "" | relative_url }}{% post_url 2025-06-27-African-American-history %}
 [Juneteenth]: {{ "" | relative_url }}{% post_url 2025-06-19-Juneteenth%}
