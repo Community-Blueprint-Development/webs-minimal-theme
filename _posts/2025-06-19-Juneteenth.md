@@ -1,15 +1,15 @@
 ---
-title: "Post: Gallery"
+title: "Juneteenth Celebration"
 categories:
   - Post Formats
 tags:
-  - gallery
-  - Post Formats
+  - juneteenth
+  - cbdf
   - tiled
 gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: /assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
+  - url: /assets/images/ice.jpeg
+    image_path: /assets/images/ice.jpeg
+    alt: "Event Set Up"
     title: "Image 1 title caption"
   - url: /assets/images/unsplash-gallery-image-2.jpg
     image_path: /assets/images/unsplash-gallery-image-2-th.jpg
@@ -72,8 +72,6 @@ gallery3:
     alt: "placeholder image 4"
 ---
 
-These are gallery tests for image wrapped in `<figure>` elements.
-
 To place a gallery add the necessary YAML Front Matter:
 
 ```yaml
@@ -127,7 +125,7 @@ And place it like so:
 {% raw %}{% include gallery id="gallery2" caption="This is a second gallery example with images hosted externally." %}{% endraw %}
 ```
 
-{% include gallery id="gallery2" caption="This is a second gallery example with images hosted externally." %}
+{% include gallery %}
 
 And for giggles one more gallery just to make sure this works. To fill page content container add `class="full"`.
 
@@ -139,4 +137,3 @@ Gallery column layout can be overrided by setting a `layout`.
 {% raw %}{% include gallery id="gallery" layout="half" caption="This is a half gallery layout example." %}{% endraw %}
 ```
 
-{% include gallery id="gallery" layout="half" caption="This is a half gallery layout example." %}
