@@ -18,5 +18,5 @@ YOUth Development is a blueprint for positive community development! We can also
 Contact Dr. Dell Byrd, Vice President at communityblueprintdevelopment@gmail.com for partnerships, collaborations or volunteer initiatives.
 
 
-{% include gallery caption="CBDF events and activities" %}
+
 
