@@ -31,7 +31,7 @@ CBDF is the vision of our president, Daniel Dickson, who has been on a mission t
 | [July-14-2025] [African-American-curriculum] | Revitalizing African American History for our YOUth. |
 
 
-check our [posts archive][year-archive].
+Check our archive [posts archive][year-archive].
 
 [African-American-curriculum]: {{ "" | relative_url }}{% post_url 2025-06-27-African-American-history %}
 [Juneteenth]: {{ "" | relative_url }}{% post_url 2025-06-19-Juneteenth%}
@@ -42,11 +42,5 @@ check our [posts archive][year-archive].
 [tags-archive]: {{ "/tags/" | relative_url }}
 [year-archive]: {{ "/year-archive/" | relative_url }}
 
----
 
-## Credits
-
----
-
-Content Creation: Restemblance, LLC at restemblance@icloud.com. Credit to Minimal Mistakes by Michael Rose.
 
