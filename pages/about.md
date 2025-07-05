@@ -31,9 +31,9 @@ CBDF is the vision of our president, Daniel Dickson, who has been on a mission t
 | [July-14-2025] [African-American-curriculum] | Revitalizing African American History for our YOUth. |
 
 
-For even more demo pages check the [posts archive][year-archive].
+check our [posts archive][year-archive].
 
-[African-American-curriculum]: {{ "" | relative_url }}{% post_url 2025-06-27-AA-history %}
+[African-American-curriculum]: {{ "" | relative_url }}{% post_url 2025-06-27-African-American-history %}
 [Juneteenth]: {{ "" | relative_url }}{% post_url 2025-06-19-Juneteenth%}
 [html-tags-post]: {{ "" | relative_url }}{% post_url 2013-01-11-markup-html-tags-and-formatting %}
 [syntax-post]: {{ "" | relative_url }}{% post_url 2013-08-16-markup-syntax-highlighting %}
@@ -46,11 +46,7 @@ For even more demo pages check the [posts archive][year-archive].
 
 ## Credits
 
-### Web Developer:
-
-- [Restemblance, LLC](https://www.handsonlearner.space) 
-
 ---
 
-Minimal Mistakes is designed, developed, and maintained by Michael Rose. Just another boring, tattooed, designer from Buffalo New York.
+Content Creation: Restemblance, LLC. Credit to Minimal Mistakes by Michael Rose.
 
