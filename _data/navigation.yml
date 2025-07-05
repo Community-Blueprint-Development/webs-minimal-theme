@@ -2,11 +2,11 @@ main:
   - title: "Home"
     url: /
   - title: "About"
-    url: /about/
+    url: /pages/about/
   - title: "Contact Us"
-    url: /contact/
+    url: /pages/contact/
   - title: "Donate"
-    url: /donate/
+    url: /pages/donate/
 # ...other navigation items...
 #
  #- title: "Posts"
