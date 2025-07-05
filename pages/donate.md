@@ -34,14 +34,6 @@ Check our archive:[posts archive][year-archive].
 [Juneteenth]: {{ "" | relative_url }}{% post_url 2025-06-19-Juneteenth%}
 [year-archive]: {{ "/year-archive/" | relative_url }}
 
----
 
-## Credits
 
-### Web Developer:
 
-- [Restemblance, LLC](mailto:cristaljones34@gmail.com) 
-
----
-
-Developed by Restemblance, LLC. Credit to Minimal Mistakes by Michael Rose.
