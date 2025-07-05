@@ -34,13 +34,13 @@ CBDF is the vision of our president, Daniel Dickson, who has been on a mission t
 
 | Name                                        | Description                                           |
 | ------------------------------------------- | ----------------------------------------------------- |
-| [Post with AA history] [AA-history-post] | Teaching African-American History. |
+| [July-14-2025] [African-American-curriculum] | Revitalizing African American History for our YOUth. |
 
 
 For even more demo pages check the [posts archive][year-archive].
 
-[AA-history-post]: {{ "" | relative_url }}{% post_url 2025-06-27-AA-history %}
-[gallery-post]: {{ "" | relative_url }}{% post_url 2010-09-09-post-gallery %}
+[African-American-curriculum]: {{ "" | relative_url }}{% post_url 2025-06-27-AA-history %}
+[Juneteenth]: {{ "" | relative_url }}{% post_url 2025-06-19-Juneteenth%}
 [html-tags-post]: {{ "" | relative_url }}{% post_url 2013-01-11-markup-html-tags-and-formatting %}
 [syntax-post]: {{ "" | relative_url }}{% post_url 2013-08-16-markup-syntax-highlighting %}
 [sample-collection]: {{ "/recipes/chocolate-chip-cookies/" | relative_url }}
