@@ -1,7 +1,7 @@
 ---
-title: "Markup: HTML Tags and Formatting"
+title: "YMCA Atlanta Event"
 header:
-  teaser: "assets/images/markup-syntax-highlighting-teaser.jpg"
+  teaser: "assets/images/ice.jpeg"
 categories:
   - Markup
 tags:
