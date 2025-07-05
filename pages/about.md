@@ -48,5 +48,5 @@ check our [posts archive][year-archive].
 
 ---
 
-Content Creation: Restemblance, LLC. Credit to Minimal Mistakes by Michael Rose.
+Content Creation: Restemblance, LLC at restemblance@icloud.com. Credit to Minimal Mistakes by Michael Rose.
 
