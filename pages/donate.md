@@ -30,7 +30,7 @@ Please visit Community Blueprint Development Foundation, Inc.‘s website at www
 
 Check our archive:[posts archive][year-archive].
 
-[African-American-curriculum]: {{ "" | relative_url }}{% post_url 2025-06-27-AA-history %}
+[African-American-curriculum]: {{ "" | relative_url }}{% post_url 2025-06-27-African-American-history %}
 [Juneteenth]: {{ "" | relative_url }}{% post_url 2025-06-19-Juneteenth%}
 [year-archive]: {{ "/year-archive/" | relative_url }}
 
