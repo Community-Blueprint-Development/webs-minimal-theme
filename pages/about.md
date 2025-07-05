@@ -21,7 +21,7 @@ CBDF is the vision of our president, Daniel Dickson, who has been on a mission t
 
 ## Current Events
 
-- African-American History at St. Paul AME Church.
+- African-American History Courses for YOUth.
 - Juneteeth Celebration
 
 ## Our News
