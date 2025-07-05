@@ -28,3 +28,12 @@ Welcome to Community Blueprint Development Foundation!
 
 The Community Blueprint Development Foundation (CBDF) is an organization whose mission and vision involve expanding horizons, dreams and opportunities for at-risk YOUth. We provide education enrichment programs just for YOUth in their early years. CBDF programs are designed to enhance academic and social skills, promote self-esteem, build character, and support working parents. CBDF reassures solace for communities and its stakeholders by instilling that our YOUth are in safe and supporting environments. 
 
+<div style="text-align: center;">
+  <h2>Latest Posts</h2>
+</div>
+
+{% for post in site.posts limit:2 %}
+  <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+  <p>{{ post.excerpt }}</p>
+  <hr>
+{% endfor %}
