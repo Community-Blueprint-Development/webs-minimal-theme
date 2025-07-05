@@ -9,21 +9,18 @@ header:
   caption: "Our YOUth!"
 toc: true
 ---
+## The Community Blueprint Development Foundation (CBDF) STATEMENT OF NEEDS:
 
-Community Blueprint Development Foundation, Inc. (CBDF) is a nonprofit, tax-exempt 501 (c) (3) corporation organized and operated exclusively on the generosity of contributors to provide charitable and educational programs and services designed to develop community YOUth. Our programs and services not only promote academic, economic, political, and social skills, but they also boost self-esteem, build character, and support working parents of YOUth who find solace in knowing that their children are safe and doing something both productive and constructive in an educational environment in their absence.
+The CBDF community provides quality educational, cultural, and recreational programs and services designed Just for YOUth (ages 5-14) in a safe and structured 
+environment. CBDF arranges out-of-school activities to foster student engagement. CBDF instills that programs that build positive academic, social and emotional settings allow YOUth to navigate away from negative influences and keep YOUth learning. Please help us help the families of this community and give the children somewhere safe to go and something productive to do when school is out by providing a facility with access to the following:
 
-CBDF is the vision of our president, Daniel Dickson, who has been on a mission to save the lives of youth in the Joyland community for nearly 20 years. In the Joyland Community, which is located in the 30315 zip code, there are approximately 200 children between the ages of 5-14 who are primarily from African-American, single-female-headed households with a median household income significantly lower than the US average and a crime rate significantly above the national average. 
+3-4 classrooms for instruction
+Cafeteria for meals
+Gym for recreation
+Computer lab
 
-
-{% include gallery id="layouts_gallery" caption=" " %}
-
-[Contact Us]({{ "/pages/contact/" | relative_url }}){: .btn .btn--success .btn--large}
-
-## Current Events
-
-- African-American History at St. Paul AME Church.
-- Juneteeth Celebration
-
+Please visit Community Blueprint Development Foundation, Inc.‘s website at www.communityblueprintdevelopment.org to pledge your support. 
+ 
 ## Our News
 
 | Name                                        | Description                                           |
