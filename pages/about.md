@@ -52,8 +52,7 @@ Check our archive [Posts by Year][year-archive].
 [Back-To-School]: {{ "" | relative_url }}{% post_url 2025-07-01-back-to-school %}
 [African-American-curriculum]: {{ "" | relative_url }}{% post_url 2025-06-27-African-American-history %}
 [CBDF Crime Prevention Awareness]: {{ "" | relative_url }}{% post_url 2023-06-18-crime %}
-[Atlanta Event]: {{ "" | relative_url }}{% post_url 2023-01-11-ymcaAtlEvent %}
-[Crime Prevention]: {{ "" | relative_url }}{% post_url 2018-06-23-crime %}
+[Reading and Wellness Event]: {{ "" | relative_url }}{% post_url 2024-06-20-read-Well %}
 [sample-collection]: {{ "/recipes/chocolate-chip-cookies/" | relative_url }}
 [categories-archive]: {{ "/categories/" | relative_url }}
 [tags-archive]: {{ "/tags/" | relative_url }}
