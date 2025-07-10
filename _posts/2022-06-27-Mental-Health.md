@@ -8,11 +8,11 @@ tags:
 ---
 
 {% capture fig_img %}
-[![CBDF Reading and Wellness Festival](/assets/images/ReadingWellness0624.png)](https://communityblueprintdevelopment.org)
+[![CBDF Reading and Wellness Festival](/assets/images/mental-health.jpg)](https://communityblueprintdevelopment.org)
 {% endcapture %}
 
 {% capture fig_caption %}
-CBDF Reading and Wellness Event
+CBDF Partnership Event: Mental Health Workshop
 {% endcapture %}
 
 <figure>
