@@ -33,14 +33,8 @@ CBDF is the vision of our president, Daniel Dickson, who has been on a mission t
 
 Check our archive [Posts by Year][year-archive].
 
+[Back-To-School]: {{ "" | relative_url }}{% post_url 2025-07-01-back-to-school %}
 [African-American-curriculum]: {{ "" | relative_url }}{% post_url 2025-06-27-African-American-history %}
-[Juneteenth]: {{ "" | relative_url }}{% post_url 2025-06-19-Juneteenth%}
-[Atlanta Event]: {{ "" | relative_url }}{% post_url 2023-01-11-ymcaAtlEvent %}
-[Washington DC YOUth Trip]: {{ "" | relative_url }}{% post_url 2015-08-16-washingtondc %}
-[sample-collection]: {{ "/recipes/chocolate-chip-cookies/" | relative_url }}
-[categories-archive]: {{ "/categories/" | relative_url }}
-[tags-archive]: {{ "/tags/" | relative_url }}
-[year-archive]: {{ "/year-archive/" | relative_url }}
-
-
+[Reading and Wellness Event]: {{ "" | relative_url }}{% post_url 2024-06-20-read-Well %}
+[CBDF Crime Prevention Awareness]: {{ "" | relative_url }}{% post_url 2023-06-18-crime %}
 
