@@ -53,7 +53,7 @@ Check our archive [Posts by Year][year-archive].
 [African-American-curriculum]: {{ "" | relative_url }}{% post_url 2025-06-27-African-American-history %}
 [Juneteenth]: {{ "" | relative_url }}{% post_url 2025-06-19-Juneteenth%}
 [Atlanta Event]: {{ "" | relative_url }}{% post_url 2023-01-11-ymcaAtlEvent %}
-[Washington DC YOUth Trip]: {{ "" | relative_url }}{% post_url 2015-08-16-washingtondc %}
+[Crime Prevention]: {{ "" | relative_url }}{% post_url 2018-06-23-crime %}
 [sample-collection]: {{ "/recipes/chocolate-chip-cookies/" | relative_url }}
 [categories-archive]: {{ "/categories/" | relative_url }}
 [tags-archive]: {{ "/tags/" | relative_url }}
