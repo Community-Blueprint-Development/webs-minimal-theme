@@ -7,6 +7,7 @@ author_profile: true
 
 Current and archived events:
 
+[Back-To-School]: {{ "" | relative_url }}{% post_url 2025-07-18-Back-To-School %}
 [African-American-curriculum]: {{ "" | relative_url }}{% post_url 2025-06-27-African-American-history %}
 [Juneteenth]: {{ "" | relative_url }}{% post_url 2025-06-19-Juneteenth%}
 [html-tags-post]: {{ "" | relative_url }}{% post_url 2023-01-11-ymcaAtlEvent %}
