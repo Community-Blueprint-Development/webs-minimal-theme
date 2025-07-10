@@ -36,6 +36,7 @@ Dr. Cristal Harris, Ed. D, Secretary
 
 ## Current Events
 
+- Back to School Event
 - African-American History Courses for YOUth.
 - Juneteeth Celebration
 
