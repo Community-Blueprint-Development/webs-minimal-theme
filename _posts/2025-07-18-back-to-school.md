@@ -21,7 +21,7 @@ Need more information or have questions?
 
 
 Check our archive [Posts by Year][year-archive].
-[Back-to-School]: {{ "" | relative_url }}{% post_url 2025-07-18-Back-To-School %}
+[Back-to-School]: {{ "" | relative_url }}{% post_url 2025-07-18-back-to-school %}
 [African-American-curriculum]: {{ "" | relative_url }}{% post_url 2025-06-27-African-American-history %}
 [Juneteenth]: {{ "" | relative_url }}{% post_url 2025-06-19-Juneteenth%}
 [Atlanta Event]: {{ "" | relative_url }}{% post_url 2023-01-11-ymcaAtlEvent %}
