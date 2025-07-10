@@ -28,7 +28,7 @@ CBDF is the vision of our president, Daniel Dickson, who has been on a mission t
 | Name                                        | Description                                           |
 | ------------------------------------------- | ----------------------------------------------------- |
 |[July-01-2025] [Back-To-School] | CBDF Partnership Back to School Event |
-|[July-14-2025] [African-American-curriculum] | Revitalizing African American History for our YOUth. | 
+|[June-27-2025] [African-American-curriculum] | Revitalizing African American History for our YOUth. | 
 
 Check our archive [Posts by Year][year-archive].
 
