@@ -37,11 +37,6 @@ CBDF Board Members
 
 [Contact Us]({{ "/pages/contact/" | relative_url }}){: .btn .btn--success .btn--large}
 
-## Current Events
-
-- Back to School Event
-- African-American History Courses for YOUth.
-- Juneteeth Celebration
 
 ## Our News
 
