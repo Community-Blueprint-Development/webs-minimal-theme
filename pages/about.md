@@ -1,5 +1,6 @@
 ---
 title: "About"
+permalink: /pages/about
 layout: splash
 author_profile: true
 header:
