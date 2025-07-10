@@ -25,9 +25,9 @@ Lastly, a program such as this can bring positive change, which is why we need y
 Please help us bring this joyful opportunity to fruition.
 
 CBDF Board Members
-Reverend Daniel Dickson, President
-Dr. Dell Byrd, Ed. D, Vice President
-Dr. Cristal Harris, Ed. D, Secretary
+- Reverend Daniel Dickson, President
+- Dr. Dell Byrd, Ed. D, Vice President
+- Dr. Cristal Harris, Ed. D, Secretary
 
 
 {% include gallery id="layouts_gallery" caption=" " %}
