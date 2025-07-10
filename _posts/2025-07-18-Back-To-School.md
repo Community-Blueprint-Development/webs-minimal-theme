@@ -1,5 +1,6 @@
 ---
-title: "Back to School Event"
+title: "Back To School"
+date: 2025-07-18
 layout: single
 author_profile: true
 header:
